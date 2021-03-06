@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "minimal-ui",
     "scope": "/",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "name": "RRCIC Practical Spirituality",
     "short_name": "rrcicps",
     "icons": [
